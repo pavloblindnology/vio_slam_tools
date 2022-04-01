@@ -1,3 +1,10 @@
+# Collab GitEye project file
+.project
+# VSCode project folder
+.vscode
+# VSCode history folder
+.history
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
